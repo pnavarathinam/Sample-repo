@@ -1,1 +1,2 @@
 # Sample-repo
+new line
